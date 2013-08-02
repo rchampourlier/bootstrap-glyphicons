@@ -1,0 +1,12 @@
+{
+  "name": "bootstrap-glyphicons",
+  "version": "1.0.0",
+  "main": ["css/bootstrap-glyphicons.css", "less/bootstrap-glyphicons.less", "fonts/glyphiconshalflings-regular.eot", "fonts/glyphiconshalflings-regular.otf", "fonts/glyphiconshalflings-regular.svg", "fonts/glyphiconshalflings-regular.ttf", "fonts/glyphiconshalflings-regular.woff"],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
