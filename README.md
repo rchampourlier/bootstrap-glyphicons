@@ -5,6 +5,18 @@ The official Bootstrap icon font, featuring 160 glyphs from [Glyphicons](http://
 To get started, check out [http://glyphicons.getbootstrap.com](http://glyphicons.getbootstrap.com)!
 
 
+### Using with Bower
+
+Add
+
+    "bootstrap-glyphicons": "git://github.com/rchampourlier/bootstrap-glyphicons"
+
+to your project's `bower.json` `dependencies` array and run
+
+    bower install
+
+Should work!
+
 
 ### Bugs and feature requests
 
